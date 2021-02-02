@@ -1,0 +1,3 @@
+
+Bank  Score = 10
+Ba  Score = 4
